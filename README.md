@@ -41,3 +41,13 @@ After running the tool, two files will be saved to the target directory:
     ...
   ]
 }
+```
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page and submit pull requests.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
