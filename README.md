@@ -6,17 +6,17 @@ This tool helps you export legacy Flash `MovieClip` assets (like avatar parts) i
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧩 **Converts MovieClips** into packed spritesheets
-- 🖼️ **Outputs transparent PNG** with all parts laid out
-- 🧭 **Includes JSON metadata** with positions, sizes, and pivot offsets
-- 📐 **Optimized for Unity** — easy integration with custom sprite loaders
-- 🔧 **Anchor point calculation** for consistent pivoting
+- **Converts MovieClips** into packed spritesheets
+- **Outputs transparent PNG** with all parts laid out
+- **Includes JSON metadata** with positions, sizes, and pivot offsets
+- **Optimized for Unity** — easy integration with custom sprite loaders
+- **Anchor point calculation** for consistent pivoting
 
 ---
 
-## 📦 Output Files
+## Output Files
 
 After running the tool, two files will be saved to the target directory:
 
